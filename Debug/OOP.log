@@ -1,6 +1,0 @@
-﻿  OOP.cpp
-C:\Users\Ismail\Visual_Dir\Assignment\OOP\OOP.cpp(18,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\Ismail\Visual_Dir\Assignment\OOP\OOP.cpp(19,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\Ismail\Visual_Dir\Assignment\OOP\OOP.cpp(96,16): warning C4101: 'e': unreferenced local variable
-C:\Users\Ismail\Visual_Dir\Assignment\OOP\OOP.cpp(100,19): warning C4101: 'x': unreferenced local variable
-  OOP.vcxproj -> C:\Users\Ismail\Visual_Dir\Assignment\OOP\Debug\OOP.exe
